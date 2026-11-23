@@ -1,0 +1,17 @@
+# Royal Falooda
+
+[Current PNG](../../images/falooda/royal-falooda.png) · Falooda
+
+```text
+Edit the attached current BizBerry Wandoor product image for Royal Falooda. Match the PNG’s portion, product identity, fillings, food styling, lighting and framing.
+
+Change requested: [Replace this line with the specific visual change you want.] Preserve the other product and plating details.
+
+This item looks like tall footed dessert glass of richly layered rose falooda with basil seeds and vermicelli, ice cream scoop and a light nut garnish. Show the entire serving and vessel or plate.
+
+Keep the tall footed dessert glass and the item’s distinct layers, scoop of ice cream and toppings.
+
+Show no drinking straw or stirrer.
+
+Keep the entire serving in frame with clear margins. Use realistic food texture and soft studio light. Export a square high-resolution PNG, ideally 1254 × 1254, with true transparent alpha outside the serving. The menu background is burgundy. Avoid a baked-in background, text, logos or watermarks.
+```
